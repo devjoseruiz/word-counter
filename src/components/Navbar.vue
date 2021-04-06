@@ -9,7 +9,7 @@
 			<vk-navbar-nav slot="right">
 				<vk-navbar-item
 					><a
-						href="https://github.com/pepemagno/word-counter"
+						href="https://gitlab.com/joseruizdev/word-counter"
 						target="_blank"
 					>
 						<vk-icon icon="github"></vk-icon>
