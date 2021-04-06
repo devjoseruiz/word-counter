@@ -4,6 +4,10 @@ WordCounter is a tool for counting the lenght of any text. That's really useful,
 
 This app can help you to know the number of paragraphs, sentences, words, characters (without counting spaces) and characters (with spaces) that are contained in your text.
 
+## Demo
+
+There is a demo deployed on Netlify: https://word-counter-vuejs.netlify.app/
+
 ## Project setup
 ```
 yarn install
